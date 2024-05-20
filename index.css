@@ -1,0 +1,10 @@
+.quadro_03{
+    padding: 60px 180px;
+gap: 80px;
+}
+
+.quadro_03 h1{
+    font-size: 52px;
+        font-weight: 700;
+        line-height: 64px;
+}
